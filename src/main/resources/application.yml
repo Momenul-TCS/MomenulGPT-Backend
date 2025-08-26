@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: firstAIdemoProject
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY}
+
+
+server:
+  port: 9095
+
+
